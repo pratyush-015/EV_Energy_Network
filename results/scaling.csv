@@ -1,0 +1,4 @@
+clusters,cluster_hours,median_seconds,repeats
+5,120,0.0117,3
+25,600,0.0794,3
+100,2400,0.2783,3

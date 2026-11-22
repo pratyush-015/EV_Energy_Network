@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "days": 2,
+  "seconds": {
+    "Reference": 1.256,
+    "Heatwave": 1.275,
+    "Monsoon lull": 1.165,
+    "Feeder squeeze": 1.2
+  }
+}
